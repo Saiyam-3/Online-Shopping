@@ -6,3 +6,4 @@ knn
 random forest
 light gb
 Latent Dirichlet Allocation(LDA)
+Collaborative Filtering approaches with Cosine and Pearson 
