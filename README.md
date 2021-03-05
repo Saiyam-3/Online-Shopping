@@ -5,3 +5,4 @@ dummy model
 knn
 random forest
 light gb
+Latent Dirichlet Allocation(LDA)
